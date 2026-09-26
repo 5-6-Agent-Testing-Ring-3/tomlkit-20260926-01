@@ -1,3 +1,3 @@
 [submodule "tests/toml-test"]
 	path = tests/toml-test
-	url = https://github.com/BurntSushi/toml-test.git
+	url = https://github.com/5-6-Agent-Testing-Ring-3/tomlkit-fixtures-20260926-01.git

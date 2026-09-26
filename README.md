@@ -60,7 +60,7 @@ pip install tomlkit
 
 Please clone the repo with submodules with the following command:
 ```bash
-git clone --recurse-submodules https://github.com/python-poetry/tomlkit.git
+git clone --recurse-submodules https://github.com/5-6-Agent-Testing-Ring-3/tomlkit-20260926-01.git
 ```
 The `toml-test` submodule is required for running the tests.
 
